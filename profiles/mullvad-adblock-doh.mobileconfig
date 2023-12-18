@@ -11,11 +11,11 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>2a07:e340::3</string>
-					<string>194.242.2.3</string>
+					<string>2a07:e340::4</string>
+					<string>194.242.2.4</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://adblock.doh.mullvad.net/dns-query</string>
+				<string>https://base.dns.mullvad.net</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Mullvad DNS over HTTPS</string>
@@ -34,11 +34,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Mullvad DNS with ad blocking to Big Sur and iOS 14 based systems</string>
+	<string>Adds the Mullvad DNS with ad, tracker, and malware blocking to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
 	<string>Mullvad DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.Mullvad.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
