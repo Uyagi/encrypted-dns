@@ -15,7 +15,7 @@
 					<string>194.242.2.4</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://base.dns.mullvad.net</string>
+				<string>https://base.dns.mullvad.net/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Mullvad DNS over HTTPS</string>
